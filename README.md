@@ -13,3 +13,5 @@ Thus it makes sense to buy IBM stocks during October and sell them around Februa
 
 
 *Warning*: I have not yet accounted for good or bad years which could skew the average to show a trend that is not really there.
+
+![Graph Of Stock Prices](https://raw.githubusercontent.com/vedantshetty/Stock-Analysis/master/StockMarket.png)
