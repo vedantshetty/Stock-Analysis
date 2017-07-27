@@ -4,7 +4,7 @@ Analysing the Stocks Prices of IBM, Coca-Cola, P&G, Boeing Over the Last 40 year
 
 
 **Insights**<br />
-1.Over the last 40 years the Stock prices of IBM are at their highest during January to Analyzing the IBM stocks over the last 40 years we see that IBM stocksprices have historically been
+1.Analyzing the IBM stocks over the last 40 years we see that IBM stocksprices have historically been
 higher than between January and March.The prices are also at their lowest between September- November.
 
 Thus it makes sense to buy IBM stocks during October and sell them around February.
